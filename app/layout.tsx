@@ -11,7 +11,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Receevo",
-  description: "Receevo is a modern banking platform for everyone.",
+  description: "Receevo is a modern banking and budgeting platform for everyone.",
   icons: {
     icon: '/icons/logo.svg'
   }};
